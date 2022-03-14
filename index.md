@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Excel 2 Python
 
 You can use the [editor on GitHub](https://github.com/kode2go/Excel2Python/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
