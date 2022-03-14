@@ -1,5 +1,7 @@
 ## Welcome to Excel 2 Python
 
+Go to the link here: http://kode2go.github.io/Excel2Python/
+
 You can use the [editor on GitHub](https://github.com/kode2go/Excel2Python/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
